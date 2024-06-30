@@ -14,7 +14,7 @@ const routes = {
   "k8s.sciencekill.top": "https://registry.k8s.io",
   "ghcr.sciencekill.top": "https://ghcr.io",
   "cloudsmith.sciencekill.top": "https://docker.cloudsmith.io",
-
+  "rocketchat.sciencekill.top": "https://registry.rocket.chat",
   // staging
   "docker-staging.sciencekill.top": dockerHub,
 };
